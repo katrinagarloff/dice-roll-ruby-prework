@@ -5,5 +5,5 @@
 def roll
   # code goes here
   ary = [1, 2, 3, 4, 5, 6]
-  
+  ary[0] + rand(ary[6])
 end
