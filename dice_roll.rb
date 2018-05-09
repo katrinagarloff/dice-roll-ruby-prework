@@ -4,5 +4,6 @@
 
 def roll
   # code goes here
-  ary = 
+  ary = [1, 2, 3, 4, 5, 6]
+  
 end
