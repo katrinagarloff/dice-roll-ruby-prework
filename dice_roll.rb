@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  
+  ary = 
 end
